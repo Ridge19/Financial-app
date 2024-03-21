@@ -1,6 +1,6 @@
 # Financial-app (Python)
 
-created in 2022.
+created in 2022 - Ridge Tagala (Information Technology at RMIT University - s3934367)
 
 Application includes:
 - classes (polymorphism, encapsulation, overloading)
